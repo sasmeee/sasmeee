@@ -52,8 +52,8 @@ Let's build something amazing together! 🚀
       ⚖️ <strong>GitHub Stats</strong>
     </summary><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sasmeee&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_border=true)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasmeee&show_icons=true&theme=gruvbox&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sasmeee&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_border=true&card_width=490)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasmeee&show_icons=true&theme=gruvbox&hide_border=true&card_width=490)
 
 </details>
 <details>
