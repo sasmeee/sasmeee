@@ -1,8 +1,6 @@
-<div style="padding: 10px 0; text-align: center;">
+<div align="center">
 
 ## Greetings ! I'm Sasmitha👋
-
----
 
   <a href="https://github.com/sasmeee">
     <img src="https://komarev.com/ghpvc/?username=sasmeee&label=Profile%20views&color=blue&label=Profile+Views&style=plastic"/>
