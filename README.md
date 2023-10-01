@@ -11,12 +11,10 @@
     </a>
 </div>
 
-```
-🌱 Always learning, always coding.
-💻 I'm interested in web development
-🤝 Open to collaborations on exciting web projects.
+🌱 Always learning, always coding. <br>
+💻 I'm interested in web development. <br>
+🤝 Open to collaborations on exciting web projects. <br>
 🌿 Hailing from Sri Lanka 🇱🇰.
-```
 
 Let's build something amazing together! 🚀
 
