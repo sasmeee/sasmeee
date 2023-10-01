@@ -1,6 +1,8 @@
 <div style="padding: 10px">
-  <h2>Greetings ! I'm Sasmitha👋</h2>
-  ---
+
+  ## Greetings ! I'm Sasmitha👋
+
+  
   <div style="margin: 10px 0">
     <a href="https://github.com/sasmeee">
       <img src="https://komarev.com/ghpvc/?username=sasmeee&label=Profile%20views&color=blue&label=Profile+Views&style=plastic"/>
